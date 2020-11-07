@@ -16,4 +16,4 @@ Criação de API'S para um site de músicas ultilizando os conceitos de GET, POS
 * Expressjs
 * Cors
 * Nodemon
-* Mongoo
+* Mongoos
